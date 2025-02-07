@@ -7,7 +7,7 @@ Back-end: Iqra Ramzan, Robin Roy
 ## Overview
 This project is to generate a word cloud based off of user's input. Users can import from web by inputting the URL, upload a word document or a text files as well as inputting their own text.
 
-![What it looks like](https://github.com/NexerDigitalUK/Word-cloud/blob/main/Word_cloud.png)
+![What it looks like](https://github.com/RobinRoy06/word-cloud/blob/main/Word_cloud.png)
 ## Features:
 
 - Users can change rotation, font and colour of word cloud
